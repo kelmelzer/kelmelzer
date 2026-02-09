@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 Present-day .NET-Centric Test Automation Architect who first learned to program from catalogs on an AppleII clone and in college on Red Hat 6.2 with random GeoCities/"cgi-bin"'ed websites in between. What a country!
 
-- 🔭 I’m currently working on .NET 10, EF Core, Blazor, Appium, Selenium, Playwright, Vibium, Axe (accessibility scanning)
+- 🔭 I’m currently working on .NET 10, gRPC, EF Core, Blazor, Appium, Selenium, Playwright, Vibium, Axe (accessibility scanning)
 - 🌱 I’m currently learning MCP SDK, Rust, WASM
+- 💬 Ask me about Blazor and even making RESTful APIs with gRPC!
